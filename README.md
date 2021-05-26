@@ -7,5 +7,5 @@ Basic game developed in **Unity** with **C#**
 * Use 'Spacebar' for jumping. 
 
 ## Screenshot 
-![alt text](https://github.com/paras015/Cubethon/Screenshot.png "In-game Screenshot")
+![alt text](https://github.com/paras015/Cubethon/blob/main/Screenshot.png "In-game Screenshot")
 
